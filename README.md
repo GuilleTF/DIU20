@@ -77,9 +77,9 @@ una página realmente buena, que no le falta mucho para ser casi perfecta.
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-![](./P2/Bocetos.pdf)
+![Bocetos](./P2/Bocetos.pdf)
 
-![2.e Documentación propuesta](P1/Documentación_de_propuesta.pdf)
+![2.e Documentación propuesta](P2/Documentación_de_propuesta.pdf)
 ----
 
 
