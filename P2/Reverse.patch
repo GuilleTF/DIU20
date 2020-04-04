@@ -1,0 +1,249 @@
+postmanIndex: web/js/src/modules/Routes/components/MoreOptionsPopupComponent.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- web/js/src/modules/Routes/components/MoreOptionsPopupComponent.js	(date 1582627952117)
++++ web/js/src/modules/Routes/components/MoreOptionsPopupComponent.js	(date 1582627952117)
+@@ -0,0 +1,80 @@
++import React from 'react';
++import PropTypes from 'prop-types';
++
++import Popup from 'reactjs-popup';
++import './styles.css';
++
++export default class MoreOptionsPopupComponent extends React.Component {
++    constructor(props) {
++        super(props);
++        // this.state = {
++        //     open: false,
++        //     target: null,
++        // };
++        this.ownStyle = {
++            width: '195px',
++            position: 'relative',
++            padding: 'inherit',
++            border: '1px solid rgba(0, 0, 0, 0.15)',
++            background: '#f9f9f9',
++            height: 'auto',
++            color: '#000',
++            marginTop: '2px',
++            WebkitBorderRadius: '5px',
++            MozBorderRadius: '5px',
++            borderRadius: '5px',
++            boxShadow: '0 5px 10px 0 rgba(0,0,0,.1)',
++        };
++
++        this.containerStyle = {
++            position: 'relative',
++        };
++
++        this._handleReverseRouteCallback = this._handleReverseRouteCallback.bind(this);
++        // this._handleClose = this._handleClose.bind(this);
++    }
++
++    _handleReverseRouteCallback() {
++        const { reverseRouteCallback } = this.props;
++        reverseRouteCallback();
++    }
++
++    // eslint-disable-next-line no-unused-vars
++    // _handleClose(e) {
++    //     this.setState({
++    //         open: false,
++    //     });
++    // }
++
++    render() {
++        // const { target, open } = this.state;
++        const { trigger } = this.props;
++
++        return (
++            <div>
++                <Popup
++                    trigger={trigger}
++                    // contentStyle={this.containerStyle}
++                    style={this.ownStyle}
++                    position="top center"
++                    styleName="more-options-popup-button"
++                    // offsetX={offsetX}
++                    // offsetY={offsetY}
++                >
++                    <button
++                        type="button"
++                        onClick={this._handleReverseRouteCallback}
++                    >
++                        <div className="pane-option-button-text u-text-center">Reverse</div>
++                    </button>
++                </Popup>
++            </div>
++        );
++    }
++}
++
++MoreOptionsPopupComponent.propTypes = {
++    reverseRouteCallback: PropTypes.func.isRequired,
++    // eslint-disable-next-line react/forbid-prop-types
++    trigger: PropTypes.object.isRequired,
++};
+Index: web/js/src/modules/Routes/components/RoutesSectionComponent.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- web/js/src/modules/Routes/components/RoutesSectionComponent.js	(date 1582299602000)
++++ web/js/src/modules/Routes/components/RoutesSectionComponent.js	(date 1582620395690)
+@@ -126,6 +126,10 @@
+         }
+     }
+ 
++    reverseRouteCallback() {
++        debugger;
++    }
++
+     showClearPopup() {
+         this.modalAdaptor = BadgerApp.objectFactory.getClass('Common', 'ModalAdaptorInterface');
+         const modalInfoEntity = new ModalComponentInfoEntity('RouteComponents',
+@@ -178,6 +182,7 @@
+                             staticUrl={staticUrl}
+                             updateRouteEntityCallback={this.updateRouteEntityCallback}
+                             handleClearRouteCallback={this.showClearPopup}
++                            reverseRouteCallback={this.reverseRouteCallback}
+                         />
+                     </TabPanel>
+                     <TabPanel>
+Index: web/js/src/modules/Routes/components/styles.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- web/js/src/modules/Routes/components/styles.css	(date 1582299602000)
++++ web/js/src/modules/Routes/components/styles.css	(date 1582620395702)
+@@ -86,4 +86,13 @@
+ .suggestions-name {
+     line-height: 1.3em;
+     font-size: .9em;
+-}
+\ No newline at end of file
++}
++
++.more-options-popup-button {
++    padding: 4px 0 0;
++    color: #000000;
++}
++
++.more-options-popup-button:hover {
++    background: #f3f3f3;
++}
+Index: web/js/src/modules/Routes/components/SavedRouteComponent.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- web/js/src/modules/Routes/components/SavedRouteComponent.js	(date 1582299602000)
++++ web/js/src/modules/Routes/components/SavedRouteComponent.js	(date 1582620395696)
+@@ -12,7 +12,7 @@
+         this._callLoadRouteCallback = this._callLoadRouteCallback.bind(this);
+     }
+ 
+-    handleClick(event) {
++    _handleEditRouteClick(event) {
+         this.editRoutePopupComponent.current.setState({
+             open: !this.editRoutePopupComponent.current.state.open,
+             target: event.currentTarget,
+@@ -38,7 +38,9 @@
+     }
+ 
+     render() {
+-        const { route_date, name, fullUserName, reassignPermissions, teamMembers, selectedUserId } = this.props;
++        const {
++            route_date, name, fullUserName, reassignPermissions, teamMembers, selectedUserId
++        } = this.props;
+ 
+ 
+         return (
+@@ -56,7 +58,7 @@
+                     className={this.editButtonClassName}
+                     ref="target"
+                     type="button"
+-                    onClick={this.handleClick.bind(this)}
++                    onClick={this._handleEditRouteClick.bind(this)}
+                 >
+                     <i
+                         className="sprite sprite-utility-edit u-display-block"
+Index: web/js/src/modules/Routes/components/CurrentRouteComponent.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- web/js/src/modules/Routes/components/CurrentRouteComponent.js	(date 1582299602000)
++++ web/js/src/modules/Routes/components/CurrentRouteComponent.js	(date 1582633067817)
+@@ -6,16 +6,25 @@
+ import WaypointComponent from './WaypointComponent';
+ import EmptyCurrentRouteComponent from './EmptyCurrentRouteComponent';
+ import AddLocationPopupComponent from './AddLocationPopupComponent';
++import MoreOptionsPopupComponent from './MoreOptionsPopupComponent';
+ 
+ 
+ export default class CurrentRouteComponent extends React.Component {
+     constructor(props) {
+         super(props);
+ 
++        this.moreOptionsPopupComponent = React.createRef();
++
+         this.onDragEnd = this.onDragEnd.bind(this);
+         this.deleteWaypoint = this.deleteWaypoint.bind(this);
+         this.handleClick = this.handleClick.bind(this);
+         this._callUpdateRouteEntityCallback = this._callUpdateRouteEntityCallback.bind(this);
++        this._callReverseRouteCallback = this._callReverseRouteCallback.bind(this);
++    }
++
++    _callReverseRouteCallback() {
++        const { reverseRouteCallback } = this.props;
++        reverseRouteCallback();
+     }
+ 
+     _callUpdateRouteEntityCallback(routeEntity) {
+@@ -82,6 +91,13 @@
+         ));
+     }
+ 
++    _handleMoreOptionsClick(event) {
++        this.moreOptionsPopupComponent.current.setState({
++            open: !this.moreOptionsPopupComponent.current.state.open,
++            target: event.currentTarget,
++        });
++    }
++
+     _doesRouteHaveAnyStops() {
+         const { routeEntity } = this.props;
+ 
+@@ -149,10 +165,18 @@
+                         <i className="sprite sprite-route-clear pane-option-button-image" />
+                         <div className="pane-option-button-text u-text-center">Clear</div>
+                     </button>
+-                    <button type="button" id="routeOptions" className="pane-option-button route-popover options">
+-                        <i className="sprite sprite-lasso-more pane-option-button-image" />
+-                        <div className="pane-option-button-text u-text-center">More</div>
+-                    </button>
++                    <MoreOptionsPopupComponent
++                        ref={this.moreOptionsPopupComponent}
++                        reverseRouteCallback={this._callReverseRouteCallback}
++                        // offsetX={-100}
++                        // offsetY={-100}
++                        trigger={(
++                            <button type="button" id="routeOptions" className="pane-option-button route-popover options" onClick={this._handleMoreOptionsClick.bind(this)}>
++                                <i className="sprite sprite-lasso-more pane-option-button-image" />
++                                <div className="pane-option-button-text u-text-center">More</div>
++                            </button>
++                        )}
++                    />
+                 </div>
+             </DragDropContext>
+         );
+@@ -169,4 +193,5 @@
+     // eslint-disable-next-line react/forbid-prop-types
+     routeEntity: PropTypes.object.isRequired,
+     handleClearRouteCallback: PropTypes.func.isRequired,
++    reverseRouteCallback: PropTypes.func.isRequired,
+ };
