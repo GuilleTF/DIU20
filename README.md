@@ -43,7 +43,7 @@ Miembros
 >>> - Comentario sobre la valoración:  La nota obtenida en la revisión de usabilidad es 86 puntos, lo que la sitúa como
 una página realmente buena, que no le falta mucho para ser casi perfecta.
 
-![1.e Memoria](P1/Memoria.pdf).
+![1.e Memoria](P1/Memoria.pdf)
 ----
 
 ## Paso 2. UX Design  
@@ -52,42 +52,35 @@ una página realmente buena, que no le falta mucho para ser casi perfecta.
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+![](./P2/Malla_receptora_de_información.png)
   
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>>Nuestro proyecto consiste en desarrollar la funcionalidad de viajar de Amovens. Tomando los buenos diseños de Amovens y >>>mejorándolos, para hacer una mejor experiencia de uso.
+
+>>>También hemos querido remodelar el diseño aportando más claridad en general y dando más importancia a algunos elementos que >>>no la tenían, como es el añadido de varias secciones que aportan funcionalidades importantes y que no estaban implementadas >>>(secciones que detallaremos más adelante).
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![](./P2/User_task_matrix.png)
+
+
+![](./P2/Mapa_del_sitio.png)
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+![](./P2/Labelling.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![](./P2/Bocetos.pdf)
+
+![2.e Documentación propuesta](P1/Documentación_de_propuesta.pdf)
+----
 
 
 ## Paso 3. Make (Prototyping) 
