@@ -54,9 +54,9 @@ una página realmente buena, que no le falta mucho para ser casi perfecta.
 
 ![](./P2/Malla_receptora_de_información.png)
   
->>>Nuestro proyecto consiste en desarrollar la funcionalidad de viajar de Amovens. Tomando los buenos diseños de Amovens y >>>mejorándolos, para hacer una mejor experiencia de uso.
+>>>Nuestro proyecto consiste en desarrollar la funcionalidad de viajar de Amovens. Tomando los buenos diseños de Amovens y mejorándolos, para hacer una mejor experiencia de uso.
 
->>>También hemos querido remodelar el diseño aportando más claridad en general y dando más importancia a algunos elementos que >>>no la tenían, como es el añadido de varias secciones que aportan funcionalidades importantes y que no estaban implementadas >>>(secciones que detallaremos más adelante).
+>>>También hemos querido remodelar el diseño aportando más claridad en general y dando más importancia a algunos elementos que no la tenían, como es el añadido de varias secciones que aportan funcionalidades importantes y que no estaban implementadas (secciones que detallaremos más adelante).
 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
