@@ -1,7 +1,7 @@
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+![Método UX](../img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
 ![](./P2/Malla_receptora_de_información.png)
