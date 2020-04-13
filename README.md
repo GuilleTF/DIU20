@@ -30,10 +30,18 @@ Miembros
 
 >>> Hemos escogido a Juan y Asuka porque pensamos que la edad, el sexo, la cultura u otros factores pueden ser muy determinantes a la hora de interactuar con un elemento.
 
+
+![](./P1/juan_ballesteros.png)
+![](./P1/asuka_hashimoto.png)
+
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 >>> Muy en línea con lo comentado en el punto anterior, pensamos que la forma en la que interactuan con la aplicación toma caminos muy distintos, ofreciéndonos un enfoque más amplio al que tendríamos si pensamos en como usaría la aplicación alguien como nosotros.
+
+![](./P1/mExp_JuanBalle.png)
+![](./P1/Asuka_mapa_exp.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
