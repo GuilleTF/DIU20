@@ -8,7 +8,7 @@ Proyecto: GoCar
 Descripción: Plataforma para compartir viajes.
 
 Logotipo:
-![](./P3/logotipo.png)
+![Logotipo](./P3/LogoGoCar1.png)
 
 
 Miembros
@@ -50,7 +50,6 @@ Miembros
 >>> - Valoración final (numérica): 86
 >>> - Comentario sobre la valoración:  La nota obtenida en la revisión de usabilidad es 86 puntos, lo que la sitúa como una página realmente buena, que no le falta mucho para ser casi perfecta. Los puntos más críticos que encontramos han sido por ejemplo los mensajes de error, es decir, cuando en un formulario tienes que rellenar diferentes campos, si alguno no lo rellenas y es obligatorio, no te lo especifica claramente; por otro lado hay carencia de ayuda o instrucciones a la hora de realizar registros o publicar; y otro punto débil a señalar es que si el usuario que utiliza la plataforma es una persona mayor, no es lo mismo que una persona joven que está más habituada a la tecnología, y es aquí donde la ayuda entra en juego, ya que dicha plataforma es igual para todos los usuarios.
 
-![1.e Memoria](P1/Memoria.pdf)
 ----
 
 ## Paso 2. UX Design  
@@ -68,9 +67,11 @@ Miembros
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap
 -----
 >>> Una vez planteadas las ideas a desarrollar recogidas de la experiencias de los usuarios y de las mejoras que queremos implementar, clasificamos las tareas principales de la plataforma y su grado de utilización según distintos perfiles de usuario.
+
 ![](./P2/User_task_matrix.png)
 
 >>> Una vez clasificadas las tareas principales decidimos desarrollar el mapa web de la plataforma para su posterior implementación. En este punto, tuvimos en cuenta la dificultad para acceder a algunos menús y opciones en Amovens, con la idea de mejorar la experiencia de usuario.
+
 ![](./P2/Mapa_del_sitio.png)
 
 ![Método UX](img/labelling.png) 2.c Labelling
@@ -84,8 +85,6 @@ Miembros
 >>> Desarrollado el mapa web de la plataforma, decidimos llevar a cabo el diseño de los wireframes, con las ideas de mejora implementadas, destacando la simplicidad de los menús o las nuevas funciones. 
 ![Bocetostamañopequeño](./P2/Bocetos.pdf)
 Para verlos con más detalle pulse en este enlace: ![Bocetos](./P2/Bocetos.pdf)
-
-![2.e Documentación propuesta](P2/Documentación_de_propuesta.pdf)
 ----
 
 ## Paso 3. Logotipo y Guidelines
@@ -105,7 +104,7 @@ Para verlos con más detalle pulse en este enlace: ![Bocetos](./P2/Bocetos.pdf)
 >>> - Solicite permisos en un contexto relevante.(ejemplo ubicación o cámara)
 >>> - Permita realizar transiciones entre las aplicaciones para dispositivos móviles y la Web móvil sin inconvenientes. 
 >>> - Tambíen revisando nuestra plataforma y diferentes diseños llegamos a la conclusión de que es importante tener una tipografía clara y que se diferencie bien del fondo y demás elementos de la página.
->>> -Respecto a los colores, el diseño de estos es importante, la página debe ser llamativa y que atraiga a la gente. Una buena página de inicio es principal para llamar la atención de los clientes. Es importante no tener mucha variedad de colores que no saturen la vista del usuario, fondos blancos o claros y menús con colores pastel, juegan buena combinación y al mismo tiempo hacen que la página sea clara, llamativa y guste al cliente.
+>>> - Respecto a los colores, el diseño de estos es importante, la página debe ser llamativa y que atraiga a la gente. Una buena página de inicio es principal para llamar la atención de los clientes. Es importante no tener mucha variedad de colores que no saturen la vista del usuario, fondos blancos o claros y menús con colores pastel, juegan buena combinación y al mismo tiempo hacen que la página sea clara, llamativa y guste al cliente.
 
 -----
 -----
