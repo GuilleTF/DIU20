@@ -92,6 +92,7 @@ Para verlos con más detalle pulse en este enlace: ![Bocetos](./P2/Bocetos.pdf)
 ![Método UX](img/landing-page.png)  3.a Logotipo
 ----
 >>> Como todas las plataformas o páginas, no podía faltar un emblema o logotipo que identifique a la nuestra. Es importante que el logotipo sea llamativo y claro, para que sea fácil de identificar.  .
+
 ![Logotipo](./P3/LogoGoCar1.png)
 
 ![Método UX](img/guidelines.png) 3.b Guidelines
