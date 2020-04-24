@@ -92,11 +92,17 @@ Para verlos con más detalle pulse en este enlace: ![Bocetos](./P2/Bocetos.pdf)
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
->>> Analizar lo aprendido de la experiencia MuseApp
+>>>  Realizados los bocetos, analizamos un caso de estudio de una aplicación, [Musemap](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b), entra las cosas que nos llamó bastante la atención fué:
+>>> Lo primero ha sido emplear la técnica de brainstorming, para poder identificar las necesidades de los posibles usuarios objetivo. De esta forma además, se consigue que los desarrolladores tengan una visión global del futuro proyecto.
+>>> Las pruebas de usabilidad en los diseños de papel nos parecen un factor importante ya que corrigen los primeros problemas de diseño en cuanto a funcionalidad o incluso pueden llevar a rehacer de cero el prototipo.
+>>> Otro detalle a tener en cuenta es la pizarra de “features”, con la cual, los desarrolladores pueden priorizar las tareas en función del esfuerzo/coste y la necesidad de realizarlas.
+>>> Y por último los planes futuros hay que tenerlo en cuenta, porque una aplicación para que siempre funcione bien necesita un mantenimiento diario y a menudo actualizaciones con novedades.
+>>> Creemos que es necesario añadir pruebas de testeo una vez tenemos la maqueta final, pues pueden existir detalles a cambiar, como podría ser la paleta de colores.
+
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
->>> Como todas las plataformas o páginas, no podía faltar un emblema o logotipo que identifique a la nuestra. Es importante que el logotipo sea llamativo y claro, para que sea fácil de identificar.  .
+>>> Como todas las plataformas o páginas, no podía faltar un logotipo que identifique a la nuestra. Es importante que el logotipo sea llamativo para que sea fácil de identificar. Ha sido realizado con la herramienta gratuita [Canva](https://www.canva.com/). Hemos empleado estos colores porque pensamos que atraen la atención del usuario y realizan buen contraste entre ellos, aparte salen dos coches alrededor de un círculo como si de un trayecto se tratase, que identifican el objetivo de nuestra plataforma, el compartir viajes. La elección del logotipo está pensada también para que este sea adaptable a cualquier plataforma, tamaño o formato.
 ![Logotipo](./P3/logotipo.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
@@ -113,7 +119,6 @@ Para verlos con más detalle pulse en este enlace: ![Bocetos](./P2/Bocetos.pdf)
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
-
 
 -----
 -----
