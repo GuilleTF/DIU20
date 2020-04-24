@@ -87,15 +87,19 @@ Miembros
 Para verlos con más detalle pulse en este enlace: ![Bocetos](./P2/Bocetos.pdf)
 ----
 
-## Paso 3. Logotipo y Guidelines
+## Paso 3. Mi equipo UX-Case Study
 
-![Método UX](img/landing-page.png)  3.a Logotipo
+![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
+-----
+
+>>> Analizar lo aprendido de la experiencia MuseApp
+
+![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 >>> Como todas las plataformas o páginas, no podía faltar un emblema o logotipo que identifique a la nuestra. Es importante que el logotipo sea llamativo y claro, para que sea fácil de identificar.  .
+![Logotipo](./P3/logotipo.png)
 
-![Logotipo](./P3/LogoGoCar1.png)
-
-![Método UX](img/guidelines.png) 3.b Guidelines
+![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 >>> Revisando los patrones de diseño y guidelines nos dimos cuenta que en los wireframes nos faltaban algunos bastante importantes como:
 >>> - Barra de progreso para cuando se está publicando un viaje saber en qué etapa está.
@@ -105,51 +109,38 @@ Para verlos con más detalle pulse en este enlace: ![Bocetos](./P2/Bocetos.pdf)
 >>> - Solicite permisos en un contexto relevante.(ejemplo ubicación o cámara)
 >>> - Permita realizar transiciones entre las aplicaciones para dispositivos móviles y la Web móvil sin inconvenientes. 
 >>> - Tambíen revisando nuestra plataforma y diferentes diseños llegamos a la conclusión de que es importante tener una tipografía clara y que se diferencie bien del fondo y demás elementos de la página.
->>> - Respecto a los colores, el diseño de estos es importante, la página debe ser llamativa y que atraiga a la gente. Una buena página de inicio es principal para llamar la atención de los clientes. Es importante no tener mucha variedad de colores que no saturen la vista del usuario, fondos blancos o claros y menús con colores pastel, juegan buena combinación y al mismo tiempo hacen que la página sea clara, llamativa y guste al cliente.
+>>> -Respecto a los colores, el diseño de estos es importante, la página debe ser llamativa y que atraiga a la gente. Una buena página de inicio es principal para llamar la atención de los clientes. Es importante no tener mucha variedad de colores que no saturen la vista del usuario, nuestra paleta de colores principales está basada en el logotipo, como son el negro para la tipografía, el azul para ítems/menús seleccionados, el amarillo para las valoraciones y el rojo para mensajes de error o alertas, estos patrones de colores juegan buena combinación y al mismo tiempo hacen que la página sea clara, llamativa y guste al cliente.
 
------
------
-## Paso 4. UX Check (Usability Testing)
-
-
-![Método UX](img/ABtesting.png) 4.a A/B Testing
+![Método UX](img/mockup.png)  3.d Video
 ----
 
 
->>> Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
+-----
+-----
+## Paso 4. Evaluación 
 
->>>> Práctica A:
+
+![Método UX](img/ABtesting.png) 4.a Casos asignados
+----
+
+
+>>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
+
+>>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Usuarios para evaluar prácticas
+>>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B
-
-
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
+![Método UX](img/Survey.png). 4.c Ranking 
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+>>> Concluya con un ranking de los casos evaluados 
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal
-
-
-![Método UX](img/usability-report.png) 4.c Usability Report
-----
-
->> Añadir report de usabilidad para práctica B
-
+>>> Valoración personal 
 
 
 ## Paso 5. Evaluación de Accesibilidad  
@@ -160,19 +151,11 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
 
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG)
+>>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
 
 
 
-## Conclusión / Valoración de las prácticas
+## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
-
-
+>>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
