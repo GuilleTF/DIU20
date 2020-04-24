@@ -84,9 +84,9 @@ Miembros
 -----
 >>> Desarrollado el mapa web de la plataforma, decidimos llevar a cabo el diseño de los wireframes, con las ideas de mejora implementadas, destacando la simplicidad de los menús o las nuevas funciones. 
 
-![Bocetostamañopequeño1](./P2/bocetos1.png)
+![Bocetostamañopequeño1](./P2/bocetos1.PNG)
 
-![Bocetostamañopequeño2](./P2/bocetos2.png)
+![Bocetostamañopequeño2](./P2/bocetos2.PNG)
 
 Para verlos con más detalle pulse en este enlace: ![Bocetos](./P2/Bocetos.pdf)
 
