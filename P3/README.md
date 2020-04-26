@@ -43,7 +43,7 @@
 
 ![](./iconos.JPG)
 
-Para verlos en más detalle: ![Iconos](./P3/iconos.pdf)
+Para verlos en más detalle: ![Iconos](./iconos.pdf)
 
 ![Método UX](../img/mockup.png)  3.d Video
 ----
