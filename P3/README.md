@@ -1,185 +1,50 @@
-# DIU20
-Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
+## Paso 3. Mi equipo UX-Case Study
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
-
-Proyecto: 
-
-Descripción: 
-
-Logotipo: 
-
-Miembros
- * :bust_in_silhouette:   Manuel Mesas Gutiérrez    :octocat:     
- * :bust_in_silhouette:  Carlos Toledano Delgado     :octocat:
-
------ 
-
-# Proceso de Diseño 
-
-## Paso 1. UX Desk Research & Analisis 
-
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](../img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
->>> Hemos elegido Amovens ya que pensamos que es una de las plataformas de referencia para compartir viaje, pero siempre habrá algo que se pueda mejorar.
+>>> - Realizados los bocetos, analizamos un caso de estudio de una aplicación, [Musemap](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b), entra las cosas que nos llamó bastante la atención fué:
+>>> - Lo primero ha sido emplear la técnica de brainstorming, para poder identificar las necesidades de los posibles usuarios objetivo. De esta forma además, se consigue que los desarrolladores tengan una visión global del futuro proyecto.
+>>> - Las pruebas de usabilidad en los diseños de papel nos parecen un factor importante ya que corrigen los primeros problemas de diseño en cuanto a funcionalidad o incluso pueden llevar a rehacer de cero el prototipo.
+>>> - Otro detalle a tener en cuenta es la pizarra de “features”, con la cual, los desarrolladores pueden priorizar las tareas en función del esfuerzo/coste y la necesidad de realizarlas.
+>>> - Y por último los planes futuros hay que tenerlo en cuenta, porque una aplicación para que siempre funcione bien necesita un mantenimiento diario y a menudo actualizaciones con novedades.
+>>> - Creemos que es necesario añadir pruebas de testeo una vez tenemos la maqueta final, pues pueden existir detalles a cambiar, como podría ser la paleta de colores.
 
 
-![Método UX](img/Persona.png) 1.b Persona
------
-
->>> Hemos escogido a Juan y Asuka porque pensamos que la edad, el sexo, la cultura u otros factores pueden ser muy determinantes a la hora de interactuar con un elemento.
-
-
-![](./P1/juan_ballesteros.png)
-![](./P1/asuka_hashimoto.png)
-
-
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](../img/landing-page.png)  3.b Logotipo
 ----
+>>> Como todas las plataformas o páginas, no podía faltar un logotipo que identifique a la nuestra. Es importante que el logotipo sea llamativo para que sea fácil de identificar. Ha sido realizado con la herramienta gratuita [Canva](https://www.canva.com/). Hemos empleado estos colores porque pensamos que atraen la atención del usuario y realizan buen contraste entre ellos, aparte salen dos coches alrededor de un círculo como si de un trayecto se tratase, que identifican el objetivo de nuestra plataforma, el compartir viajes. La elección del logotipo está pensada también para que este sea adaptable a cualquier plataforma, tamaño o formato.
 
->>> Muy en línea con lo comentado en el punto anterior, pensamos que la forma en la que interactuan con la aplicación toma caminos muy distintos, ofreciéndonos un enfoque más amplio al que tendríamos si pensamos en como usaría la aplicación alguien como nosotros.
+![Logotipo](./LogoGoCar1.png)
 
-![](./P1/mExp_JuanBalle.png)
-![](./P1/Asuka_mapa_exp.png)
-
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Método UX](../img/guidelines.png) 3.c Guidelines
 ----
+>>> Revisando los patrones de diseño y guidelines nos dimos cuenta que en los wireframes nos faltaban algunos bastante importantes como:
+>>> - Barra de progreso para cuando se está publicando un viaje saber en qué etapa está.
+>>> - Permitir ver y filtrar las opiniones de los usuarios.
+>>> - Permitir que el usuario pueda agregar y administrar fácilmente los métodos de pago.
+>>> - Poder autentificarse en la aplicación mediante huella y no tener que introducir contraseña cada vez que se inicia sesión.
+>>> - Solicite permisos en un contexto relevante.(ejemplo ubicación o cámara)
+>>> - Permita realizar transiciones entre las aplicaciones para dispositivos móviles y la Web móvil sin inconvenientes.
+>>> - Tambíen revisando nuestra plataforma y diferentes diseños llegamos a la conclusión de que es importante tener una tipografía clara y que se diferencie bien del fondo y demás elementos de la página.
+>>> - Hemos elegido Calibri ya que es de las más exitosas para el diseño web. Sus trazos curvos y elegantes fueron pensados para su uso en pantalla; genera gran impacto tanto en tamaños grandes como en pequeños. 
 
->>> - Enlace al documento:  ![Usability Review](P1/Usability-review-template.pdf)
->>> - Valoración final (numérica): 86
->>> - Comentario sobre la valoración:  La nota obtenida en la revisión de usabilidad es 86 puntos, lo que la sitúa como
-una página realmente buena, que no le falta mucho para ser casi perfecta.
+### Tipografía Calibri:
 
-![1.e Memoria](P1/Memoria.pdf)
+![](./calibri.png)
+
+>>> - Respecto a los colores, el diseño de estos es importante, la página debe ser llamativa y que atraiga a la gente. Una buena página de inicio es principal para llamar la atención de los clientes. Es importante no tener mucha variedad de colores que no saturen la vista del usuario, nuestra paleta de colores principales está basada en el logotipo, como son el negro para la tipografía, el azul para ítems/menús seleccionados, el amarillo para las valoraciones y el rojo para mensajes de error o alertas, estos patrones de colores juegan buena combinación y al mismo tiempo hacen que la página sea clara, llamativa y guste al cliente.
+
+### Nuestra paleta de colores:
+
+![](./paleta.png)
+
+### Nuestros iconos:
+
+![](./iconos.JPG)
+
+Para verlos en más detalle: ![Iconos](./P3/iconos.pdf)
+
+![Método UX](../img/mockup.png)  3.d Video
 ----
-
-## Paso 2. UX Design  
-
-
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
-----
-
-![](./P2/Malla_receptora_de_información.png)
-  
->>>Nuestro proyecto consiste en desarrollar la funcionalidad de viajar de Amovens. Tomando los buenos diseños de Amovens y mejorándolos, para hacer una mejor experiencia de uso.
-
->>>También hemos querido remodelar el diseño aportando más claridad en general y dando más importancia a algunos elementos que no la tenían, como es el añadido de varias secciones que aportan funcionalidades importantes y que no estaban implementadas (secciones que detallaremos más adelante).
-
-
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
------
-
-![](./P2/User_task_matrix.png)
-
-
-![](./P2/Mapa_del_sitio.png)
-
-
-![Método UX](img/labelling.png) 2.c Labelling 
-----
-
-![](./P2/Labelling.png)
-
-
-![Método UX](img/Wireframes.png) 2.d Wireframes
------
-
-![Bocetos](./P2/Bocetos.pdf)
-
-![2.e Documentación propuesta](P2/Documentación_de_propuesta.pdf)
-----
-
-
-## Paso 3. Make (Prototyping) 
-
-
-![Método UX](img/moodboard.png) 3.a Moodboard
------
-
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
-
-![Método UX](img/landing-page.png)  3.b Landing Page
-----
-
-
->>> Plantear Landing Page 
-
-![Método UX](img/guidelines.png) 3.c Guidelines
-----
-
->>> Estudio de Guidelines y Patrones IU a usar 
-
-![Método UX](img/mockup.png)  3.d Mockup
-----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
-
-## Paso 4. UX Check (Usability Testing) 
-
-
-![Método UX](img/ABtesting.png) 4.a A/B Testing
-----
-
-
->>> Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
-
->>>> Práctica A: 
-
-
-![Método UX](img/usability-testing.png) 4.b User Testing
-----
-
->>> Usuarios para evaluar prácticas 
-
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-
-
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
-----
-
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
-
-![Método UX](img/usability-report.png) 4.c Usability Report
-----
-
->> Añadir report de usabilidad para práctica B 
-
-
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
-
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
-
-
-
-## Conclusión / Valoración de las prácticas
-
-
->>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
 
