@@ -121,7 +121,7 @@ Miembros
 
 ![Paleta](P3/paleta_recortada.png)
 
->>> - Iconos:
+>>> - Nuestra selección de iconos se ha basado en la simplicidad, pero al mismo tiempo que sean fácilmente comprensibles y reconocibles.
 
 ![Iconos](P3/iconos.JPG)
 
