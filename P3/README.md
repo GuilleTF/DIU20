@@ -51,6 +51,8 @@
 ![Método UX](../img/mockup.png)  3.d Video
 ----
 
+>>> [Vídeo GoCar](https://drive.google.com/file/d/1dU2-6EOmq3W4CH8C0_J7XcbQP1Xvgw79/preview)
+
 3.e Conclusión final
 ----
 >>> Nuestra valoración final del proceso de desarrollo de la práctica ha sido bastante satisfactoria. Nos hemos enfocado más en el diseño de la experiencia de usuario cuando normalmente en toda la carrera estamos acostumbrados a un diseño más técnico en el que no se tiene en cuenta al usuario, sino solamente la visión del programador.
