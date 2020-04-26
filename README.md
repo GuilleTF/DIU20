@@ -128,6 +128,8 @@ Miembros
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
+>>> [Vídeo GoCar](https://drive.google.com/file/d/1dU2-6EOmq3W4CH8C0_J7XcbQP1Xvgw79/preview)
+
 ----
 >>> Para más información sobre el paso 3, pulse aquí: ![Paso 3](P3/README.md)
 ----
