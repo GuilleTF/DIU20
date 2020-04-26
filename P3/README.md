@@ -27,19 +27,22 @@
 >>> - Solicite permisos en un contexto relevante.(ejemplo ubicación o cámara)
 >>> - Permita realizar transiciones entre las aplicaciones para dispositivos móviles y la Web móvil sin inconvenientes.
 >>> - Tambíen revisando nuestra plataforma y diferentes diseños llegamos a la conclusión de que es importante tener una tipografía clara y que se diferencie bien del fondo y demás elementos de la página.
->>> - Hemos elegido Calibri ya que es de las más exitosas para el diseño web. Sus trazos curvos y elegantes fueron pensados para su uso en pantalla; genera gran impacto tanto en tamaños grandes como en pequeños. 
 
 ### Tipografía Calibri:
 
+>>> - Hemos elegido Calibri ya que es de las más exitosas para el diseño web. Sus trazos curvos y elegantes fueron pensados para su uso en pantalla; genera gran impacto tanto en tamaños grandes como en pequeños. 
+
 ![](./calibri.png)
 
->>> - Respecto a los colores, el diseño de estos es importante, la página debe ser llamativa y que atraiga a la gente. Una buena página de inicio es principal para llamar la atención de los clientes. Es importante no tener mucha variedad de colores que no saturen la vista del usuario, nuestra paleta de colores principales está basada en el logotipo, como son el negro para la tipografía, el azul para ítems/menús seleccionados, el amarillo para las valoraciones y el rojo para mensajes de error o alertas, estos patrones de colores juegan buena combinación y al mismo tiempo hacen que la página sea clara, llamativa y guste al cliente.
-
 ### Nuestra paleta de colores:
+
+>>> - Respecto a los colores, el diseño de estos es importante, la página debe ser llamativa y que atraiga a la gente. Una buena página de inicio es principal para llamar la atención de los clientes. Es importante no tener mucha variedad de colores que no saturen la vista del usuario, nuestra paleta de colores principales está basada en el logotipo, como son el negro para la tipografía, el azul para ítems/menús seleccionados, el amarillo para las valoraciones y el rojo para mensajes de error o alertas, estos patrones de colores juegan buena combinación y al mismo tiempo hacen que la página sea clara, llamativa y guste al cliente.
 
 ![](./paleta.png)
 
 ### Nuestros iconos:
+
+>>> - Nuestra selección de iconos se ha basado en la simplicidad, pero al mismo tiempo que sean fácimente comprensibles y reconocibles.
 
 ![](./iconos.JPG)
 
