@@ -51,3 +51,14 @@
 ![Método UX](../img/mockup.png)  3.d Video
 ----
 
+3.e Conclusión final
+----
+>>> Nuestra valoración final del proceso de desarrollo de la práctica ha sido bastante satisfactoria. Nos hemos enfocado más en el diseño de la experiencia de usuario cuando normalmente en toda la carrera estamos acostumbrados a un diseño más técnico en el que no se tiene en cuenta al usuario, sino solamente la visión del programador.
+
+>>> Hemos utilizado técnicas bastante importantes y que hasta ahora no sabíamos, como son las Personas Ficticias, los Journey Maps, los Usability Review, el Feedback Capture Grid, entre otros. Gracias a esto hemos podido diseñar un producto intuitivo, accesible y funcional.
+
+>>> En cuanto al diseño, creemos que hemos elaborado una buena plataforma que facilita bastante la experiencia del usuario, gracias a elementos como son el sitemap, el labelling y la elaboración de wireframes.
+
+>>> En resumen, hemos aprendido buenas técnicas de desarrollo software enfocadas en la experiencia de usuario que antes no conocíamos.
+
+
