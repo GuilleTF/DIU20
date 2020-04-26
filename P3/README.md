@@ -42,7 +42,7 @@
 
 ### Nuestros iconos:
 
->>> - Nuestra selección de iconos se ha basado en la simplicidad, pero al mismo tiempo que sean fácimente comprensibles y reconocibles.
+>>> - Nuestra selección de iconos se ha basado en la simplicidad, pero al mismo tiempo que sean fácilmente comprensibles y reconocibles.
 
 ![](./iconos.JPG)
 
