@@ -28,17 +28,37 @@
 ### Experiencia 1
 >>> Para esta  experiencia, debido a que el proyecto tiene el README casi vacío y dice basarse en couchsurfing, hemos decidido usar esta plataforma
 `````
-Asuka está buscando alojamiento en Nueva York, pero buscando habitaciones de hoteles, camas de hostal o Airbnbs, se encuentra precios demasiado elevados que no se puede permitir. Por ello decide recurrir a couchsurfing. Se crea su perfil y busca alojamiento. Se pone en contacto con varias personas. Asuka se enfada mucho porque algunos de los que ofrecen alojamiento quieren ligar con ella. Finalmente Asuka consigue encontrar un sitio donde dormir, pero le gustaría que hubiese algún tipo de herramienta con la que pudiera evitar el mal rato que ha pasado.
+Asuka está buscando alojamiento en Nueva York, pero buscando habitaciones de hoteles, camas de hostal 
+o Airbnbs, se encuentra precios demasiado elevados que no se puede permitir. Por ello decide recurrir 
+a couchsurfing. Se crea su perfil y busca alojamiento. Se pone en contacto con varias personas. Asuka 
+se enfada mucho porque algunos de los que ofrecen alojamiento quieren ligar con ella. Finalmente Asuka 
+consigue encontrar un sitio donde dormir, pero le gustaría que hubiese algún tipo de herramienta con la 
+que pudiera evitar el mal rato que ha pasado.
 `````
 
 ### Experiencia 2
 `````
-Asuka viaja a Buenos Aires, donde pasará 6 meses para aprender Español. Decide buscar apartamento para compartir en Badadi. Una vez que encuentra uno que le agrada, y que está muy cuidado y disponible en sus fechas, decide reservarlo. El problema llega cuando Asuka llega al apartamento y se encuentra con que las fotos publicadas en la plataforma no se corresponden con la realidad. El estado del apartamento deja mucho que desear y la limpieza entre sus compañeros es escasa. A Asuka le hubiese gustado que el apartamento estuviese como en las fotos que ella vió y le gustaría que por ejemplo hubiese en la plataforma una restricción que obligase a actualizar cada cierto tiempo las fotos de los apartamentos/habitaciones, o bien, que en el buscador hubiese un filtro con las fotos más recientes.
+Asuka viaja a Buenos Aires, donde pasará 6 meses para aprender Español. Decide buscar apartamento para 
+compartir en Badadi. Una vez que encuentra uno que le agrada, y que está muy cuidado y disponible en sus 
+fechas, decide reservarlo. El problema llega cuando Asuka llega al apartamento y se encuentra con que 
+las fotos publicadas en la plataforma no se corresponden con la realidad. El estado del apartamento deja 
+mucho que desear y la limpieza entre sus compañeros es escasa. A Asuka le hubiese gustado que el 
+apartamento estuviese como en las fotos que ella vió y le gustaría que por ejemplo hubiese en la 
+plataforma una restricción que obligase a actualizar cada cierto tiempo las fotos de los 
+apartamentos/habitaciones, o bien, que en el buscador hubiese un filtro con las fotos más recientes.
 `````
 
 ### Experiencia 3
 `````
-Asuka ha vuelto a Japón y ha pensado en celebrarlo a lo grande. Para ello decide organizar una fiesta  en su casa a través de Ocius. No tiene ningún problema publicando el evento en la plataforma. Manda un link a todos sus amigos y conocidos, a parte de las personas que quieran unirse al evento a través de la aplicación hasta llenar el aforo. Durante el transcurso de la fiesta, la gente empieza a ser menos consciente de sus actos y terminan rompiéndole muchos objetos de la casa, e incluso se percata de que le han robado. Asuka ante esto, no sabe cómo actuar, ya que solo tiene el correo de estas personas. Aún así, decidió llamar a la policía. Asuka pensó que la plataforma debería obligar a tener más datos de los usuarios tales como su identificación, nombres y apellidos, aunque a estos datos solo tuviese acceso la plataforma y que esto solo pudiesen ser consultados por la policía.
+Asuka ha vuelto a Japón y ha pensado en celebrarlo a lo grande. Para ello decide organizar una fiesta 
+en su casa a través de Ocius. No tiene ningún problema publicando el evento en la plataforma. Manda un 
+link a todos sus amigos y conocidos, a parte de las personas que quieran unirse al evento a través de la 
+aplicación hasta llenar el aforo. Durante el transcurso de la fiesta, la gente empieza a ser menos 
+consciente de sus actos y terminan rompiéndole muchos objetos de la casa, e incluso se percata de que le 
+han robado. Asuka ante esto, no sabe cómo actuar, ya que solo tiene el correo de estas personas. Aún 
+así, decidió llamar a la policía. Asuka pensó que la plataforma debería obligar a tener más datos de los 
+usuarios tales como su identificación, nombres y apellidos, aunque a estos datos solo tuviese acceso la 
+plataforma y que esto solo pudiesen ser consultados por la policía.
 `````
 
 
