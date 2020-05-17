@@ -7,14 +7,18 @@
 ### Caso 1
 
 >>> Plataforma basada en Couchsurfing.
+![Review](./DIU1.AH_review.xls) Review proyecto 1
+
 
 ### Caso 2
 
 >>> Badadi es un proyecto basado en la web Badi, es una web para alquilar habitaciones o apartamentos, el objetivo de este proyecto es mejorar dicha web, Badi.
+![Review](./DIU2.EquipoCohete_review.xls) Review proyecto 2
 
 ### Caso 3
 
 >>> Ocius es un proyecto basado en la página Artery, es una aplicación para dispositivos móviles para crear eventos de ocio en las casas de los usuarios o que estos asistan a eventos de los demás.
+![Review](./DIU3.ultramerino_review.xls) Review proyecto 3
 
 ![Método UX](../img/usability-testing.png) 4.b User Testing
 ----
@@ -41,7 +45,7 @@ Asuka ha vuelto a Japón y ha pensado en celebrarlo a lo grande. Para ello decid
 ![Método UX](../img/Survey.png). 4.c Ranking 
 ----
 
->>> TABLA
+![Ranking](./Ranking.png) Ranking
 
 >>> Este ranking lo hemos obtenido de las evaluaciones realizadas a cada proyecto teniendo como resultado en primera posición a EquipoCohete con su proyecto Badadi destacando:
 	
