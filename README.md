@@ -131,26 +131,8 @@ Miembros
 >>> [Vídeo GoCar](https://drive.google.com/file/d/1dU2-6EOmq3W4CH8C0_J7XcbQP1Xvgw79/preview)
 
 ----
->>> Para más información sobre el paso 3, pulse aquí: ![Paso 3](P3/README.md)
+>>> Para más información sobre el paso 3, pulse aquí: [Paso 3](P3/README.md)
 ----
-
-
-## Paso 4. Evaluación 
-
-
-![Método UX](img/ABtesting.png) 4.a Casos asignados
-----
-
-
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
-
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
-
-
-![Método UX](img/usability-testing.png) 4.b User Testing
-----
-
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
 
 
 ## Paso 4. Evaluación 
@@ -177,8 +159,7 @@ Miembros
 ![Método UX](./img/usability-testing.png) 4.b User Testing
 ----
 
->>> Para elaborar la experiencia de usuario en estos proyectos hemos seleccionado a Asuka Hashimoto.
-![Asuka](./P1/asuka_hashimoto.png)
+>>> Para elaborar la experiencia de usuario en estos proyectos hemos seleccionado a [Asuka Hashimoto](./P1/asuka_hashimoto.png).
 
 ### Experiencia 1
 >>> Para esta  experiencia, debido a que el proyecto tiene el README casi vacío y dice basarse en couchsurfing, hemos decidido usar esta plataforma
