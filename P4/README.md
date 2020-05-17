@@ -1,7 +1,7 @@
 ## Paso 4. Evaluación 
 
 
-![Método UX](img/ABtesting.png) 4.a Casos asignados
+![Método UX](../img/ABtesting.png) 4.a Casos asignados
 ----
 
 ### Caso 1
@@ -16,7 +16,7 @@
 
 >>> Ocius es un proyecto basado en la página Artery, es una aplicación para dispositivos móviles para crear eventos de ocio en las casas de los usuarios o que estos asistan a eventos de los demás.
 
-![Método UX](img/usability-testing.png) 4.b User Testing
+![Método UX](../img/usability-testing.png) 4.b User Testing
 ----
 
 >>> Para elaborar la experiencia de usuario en estos proyectos hemos seleccionado a Asuka Hashimoto.
@@ -38,39 +38,39 @@ Asuka ha vuelto a Japón y ha pensado en celebrarlo a lo grande. Para ello decid
 `````
 
 
-![Método UX](img/Survey.png). 4.c Ranking 
+![Método UX](../img/Survey.png). 4.c Ranking 
 ----
 
 >>> TABLA
 
 >>> Este ranking lo hemos obtenido de las evaluaciones realizadas a cada proyecto teniendo como resultado en primera posición a EquipoCohete con su proyecto Badadi destacando:
 	
->>>> Puntos fuertes:
->>>> - Competitive Analysis: Da una explicación de las distintas alternativas y ofrece una tabla comparativa.
->>>> - Site map y labelling: tiene un buen mapa del sitio y un labelling muy completo y añade iconos.
->>>> - Logotipo: se identifica muy bien con el objetivo de la plataforma.
+>>> Puntos fuertes:
+>>> - Competitive Analysis: Da una explicación de las distintas alternativas y ofrece una tabla comparativa.
+>>> - Site map y labelling: tiene un buen mapa del sitio y un labelling muy completo y añade iconos.
+>>> - Logotipo: se identifica muy bien con el objetivo de la plataforma.
 
->>>>  Puntos débiles:
->>>> - Historia del UX Case Study: realiza un video muy pobre limitándose a leer su repositorio y no mostrar de forma justificada la idea de este producto.
->>>> - Los readme del los repositorios de cada práctica se limitan solo a compartir los archivos de cada práctica sin apenas explicación.
->>>> - Los bocetos no son coherentes con el sitemap y no queda claro que muestren las tareas más importantes.
+>>>  Puntos débiles:
+>>> - Historia del UX Case Study: realiza un video muy pobre limitándose a leer su repositorio y no mostrar de forma justificada la idea de este producto.
+>>> - Los readme del los repositorios de cada práctica se limitan solo a compartir los archivos de cada práctica sin apenas explicación.
+>>> - Los bocetos no son coherentes con el sitemap y no queda claro que muestren las tareas más importantes.
 
 >>> En segunda posición tenemos a Ultramerino destacando de su proyecto Ocius:
 
->>>> Puntos fuertes:
->>>> - Readme principal: Tiene muy buena introducción en el readme principal del repositorio añadiendo también un logotipo de su equipo.
->>>> - Journey map: El segundo journey map tiene una historia muy comprensible y nos muestra un problema de la plataforma que se podría solucionar con el nuevo diseño.
->>>> - Feedback-capture-grid:  Es muy completo aunque no está disponible en su readme principal.
+>>> Puntos fuertes:
+>>> - Readme principal: Tiene muy buena introducción en el readme principal del repositorio añadiendo también un logotipo de su equipo.
+>>> - Journey map: El segundo journey map tiene una historia muy comprensible y nos muestra un problema de la plataforma que se podría solucionar con el nuevo diseño.
+>>> - Feedback-capture-grid:  Es muy completo aunque no está disponible en su readme principal.
 
->>>> Puntos débiles: 
->>>> - Bocetos: son lamentables y sin apenas información, con solo tres bocetos. 
->>>> - Competitive Analysis: no propone alternativas en su análisis competitivo con otras plataformas.
->>>> - Historia del UX Case Study: realiza un video que no muestra apenas información sobre su proyecto y además no transmite una idea clara de porqué se ha elaborado dicho proyecto.
+>>> Puntos débiles: 
+>>> - Bocetos: son lamentables y sin apenas información, con solo tres bocetos. 
+>>> - Competitive Analysis: no propone alternativas en su análisis competitivo con otras plataformas.
+>>> - Historia del UX Case Study: realiza un video que no muestra apenas información sobre su proyecto y además no transmite una idea clara de porqué se ha elaborado dicho proyecto.
 
 
 >>> Y por último, en tercera posición queda AH con su intento de proyecto de Couchsurfing:
 
->>>> Puntos fuertes:
->>>> - No tiene nada bueno destacable, entre todo lo malo tiene video de su proyecto y explicación de Musemap y un labelling muy sencillo.
->>>> Puntos débiles:
->>>> - Todo lo restante...
+>>> Puntos fuertes:
+>>> - No tiene nada bueno destacable, entre todo lo malo tiene video de su proyecto y explicación de Musemap y un labelling muy sencillo.
+>>> Puntos débiles:
+>>> - Todo lo restante...
