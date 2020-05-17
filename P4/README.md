@@ -99,3 +99,8 @@ plataforma y que esto solo pudiesen ser consultados por la policía.
 >>> - No tiene nada bueno destacable, entre todo lo malo tiene video de su proyecto y explicación de Musemap y un labelling muy sencillo.
 >>> Puntos débiles:
 >>> - Todo lo restante...
+
+>>> Conclusión final:
+
+>>> Eligiendo a nuestra persona ficticia, hemos obtenido algún conflicto en cada uno de los proyectos, lo cual significa que a pesar de que se han mejorado las plataformas iniciales, siempre habrá puntos débiles que se puedan mejorar. Por eso pensamos que es muy importante que una plataforma, una vez lanzada, siga actualizándose, mejorando sus características e implementando nuevas funciones, que la hagan líder en su mercado competitivo, no sólo desde la perspectiva técnica, sino de la perspectiva centrada en la experiencia de usuario.
+
