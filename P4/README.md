@@ -24,6 +24,7 @@
 ----
 
 >>> Para elaborar la experiencia de usuario en estos proyectos hemos seleccionado a Asuka Hashimoto.
+![Asuka](../P1/asuka_hashimoto.png)
 
 ### Experiencia 1
 >>> Para esta  experiencia, debido a que el proyecto tiene el README casi vacío y dice basarse en couchsurfing, hemos decidido usar esta plataforma
