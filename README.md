@@ -159,18 +159,17 @@ Miembros
 ![Método UX](./img/ABtesting.png) 4.a Casos asignados
 ----
 
-### Caso 1
+### Caso 1: [Repositorio 1](https://github.com/antoniohenriques/DIU20).
 
 >>> Plataforma basada en Couchsurfing.
 [Review proyecto 1](./P4/DIU1.AH_review.xls).
 
-
-### Caso 2
+### Caso 2: [Repositorio 2](https://github.com/Leamsy/DIU20).
 
 >>> Badadi es un proyecto basado en la web Badi, es una web para alquilar habitaciones o apartamentos, el objetivo de este proyecto es mejorar dicha web, Badi.
 [Review proyecto 2](./P4/DIU2.EquipoCohete_review.xls).
 
-### Caso 3
+### Caso 3: [Repositorio 3](https://github.com/merino25/DIU20).
 
 >>> Ocius es un proyecto basado en la página Artery, es una aplicación para dispositivos móviles para crear eventos de ocio en las casas de los usuarios o que estos asistan a eventos de los demás.
 [Review proyecto 3](./P4/DIU3.ultramerino_review.xls).
