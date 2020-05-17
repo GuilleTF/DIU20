@@ -36,5 +36,5 @@
 
 Para verlos con más detalle pulse en este enlace: ![Bocetos](./Bocetos.pdf)
 
-![2.e Documentación propuesta](./Documentación_de_propuesta.pdf)
+[2.e Documentación propuesta](./Documentación_de_propuesta.pdf)
 ----
