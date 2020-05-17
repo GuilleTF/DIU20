@@ -29,5 +29,5 @@
 >>> - Valoración final (numérica): 86
 >>> - Comentario sobre la valoración:  La nota obtenida en la revisión de usabilidad es 86 puntos, lo que la sitúa como una página realmente buena, que no le falta mucho para ser casi perfecta. Los puntos más críticos que encontramos han sido por ejemplo los mensajes de error, es decir, cuando en un formulario tienes que rellenar diferentes campos, si alguno no lo rellenas y es obligatorio, no te lo especifica claramente; por otro lado hay carencia de ayuda o instrucciones a la hora de realizar registros o publicar; y otro punto débil a señalar es que si el usuario que utiliza la plataforma es una persona mayor, no es lo mismo que una persona joven que está más habituada a la tecnología, y es aquí donde la ayuda entra en juego, ya que dicha plataforma es igual para todos los usuarios.
 
-![1.e Memoria](./Memoria.pdf)
+[1.e Memoria](./Memoria.pdf)
 ----
